@@ -1,0 +1,19 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "problemas practica 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosse23/L1Practica1.git"
+  },
+  "author": "Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosse23/L1Practica1/issues"
+  },
+  "homepage": "https://github.com/rosse23/L1Practica1#readme"
+}
